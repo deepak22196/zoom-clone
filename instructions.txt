@@ -1,0 +1,10 @@
+create one server.js
+npm init -y
+npm install express
+
+set up and listen the server
+create views folder 
+
+we have to install ejs to use ejs files
+
+to get other persons vdo, we have to use  socketio, to install that, we do npm install socket.io
